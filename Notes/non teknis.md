@@ -1,0 +1,1 @@
+Contohnya seperti pola transaksi dll

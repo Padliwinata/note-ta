@@ -1,0 +1,1 @@
+Pertimbangannya karena bapak dosen FEB nya orang ekonomi. Kayanya sih gaakan minta implementasi AI. Jadi rule based aja gapake ML

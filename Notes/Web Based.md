@@ -1,0 +1,1 @@
+Aplikasi dibuat web based atau desktop based dengan pertimbangan lingkungan perusahaan lebih banyak menggunakan aplikasi desktop dibanding mobile.
