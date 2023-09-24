@@ -31,12 +31,8 @@
             "id": "87eb552849c3f071",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Raw Material TA.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -142,7 +138,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Raw Material TA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +154,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Raw Material TA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,9 +175,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Raw Material TA.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -205,13 +197,13 @@
   },
   "active": "87eb552849c3f071",
   "lastOpenFiles": [
-    "Rule based.md",
+    "Implementasi Fraud Detection pada Web ... dengan Metode ....md",
     "Raw Material TA.md",
+    "Rule based.md",
     "Teknis.md",
     "non teknis.md",
     "Web Based.md",
     "Desktop Based/Web Based (bukan mobile).md",
-    "Desktop Based",
-    "Implementasi Fraud Detection pada Web ... dengan Metode ....md"
+    "Desktop Based"
   ]
 }
