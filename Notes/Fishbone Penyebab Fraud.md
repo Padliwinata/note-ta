@@ -1,5 +1,6 @@
 Regulation
 	- Regulasi tidak robust / belum ada regulasi
+	- Regulasi longgar
 
 Man
 - Integritas kurang
